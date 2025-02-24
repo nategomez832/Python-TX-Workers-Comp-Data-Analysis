@@ -64,7 +64,7 @@ According to the Bureau of Labor Statistics, 2021 saw roughly around an 8.9 perc
 
 
 
->_Figure 7 This visualization highlighted the top ten most expensive drugs as well as the most prescribed. _
+>_Figure 7 This visualization highlighted the top ten most expensive drugs as well as the most prescribed._
 
 
 When we compared the most expensive drugs with the most prescribed drugs we did see some overlap. Hydrocodone Bitartrate-Acetaminophen 325 MG –10 MG, Ibuprofen, and Gabapentin appeared on both lists. 
@@ -79,7 +79,7 @@ After seeing that these drugs costs were in the thousands, we next decided to se
 
 ![image](https://github.com/user-attachments/assets/9f33dba5-bc07-4d47-be5b-e420772728d0)
 
->_Figure 9 show the times Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen costs was over $1,000. _
+>_Figure 9 show the times Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen costs was over $1,000._
   
 The cost for Ibuprofen (a common pain/inflammatory medicine) alerted us to possible errors in the input of data in our dataset. To see if they were outliers, we decided to see how many times these drugs costs were over $1,000. After running our data, we see that Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen were only charged over $1,000 one time each, leading us to believe that these were outliers. Gabapentin however costs was over $1,000 161 times. This led us to conclude that Gabapentin is an expensive drug that is prescribed commonly.
 
@@ -99,8 +99,9 @@ For our study, it was also important to see how much Texas Workers Compensation 
 
 ![image](https://github.com/user-attachments/assets/f5233690-fab5-4f14-af65-57b70eb47907)
 
->_Figure 12 Shows the yearly cost that is paid by Workers Compensation and the estimated out-of-pocket  costs for individuals by year._ 
- 	We then decided to graph the results by year. According to the graph above, 2021 was the most that Texas Workers Compensation paid for patients' treatments. This is consistent with our data that shows that 2021 was the year that most people were getting prescription pills. It was also after the initial start of the pandemic where access to healthcare was stopped to make room for Covid patients in hospitals. 2021marked the opportunity for many individuals waiting for surgeries to finally have an opportunity to do so. Interestingly enough, 2020 was the year that patients had to pay the most for out-of-pocket costs. 
+>_Figure 12 Shows the yearly cost that is paid by Workers Compensation and the estimated out-of-pocket  costs for individuals by year._
+
+We then decided to graph the results by year. According to the graph above, 2021 was the most that Texas Workers Compensation paid for patients' treatments. This is consistent with our data that shows that 2021 was the year that most people were getting prescription pills. It was also after the initial start of the pandemic where access to healthcare was stopped to make room for Covid patients in hospitals. 2021marked the opportunity for many individuals waiting for surgeries to finally have an opportunity to do so. Interestingly enough, 2020 was the year that patients had to pay the most for out-of-pocket costs. 
 
  ![image](https://github.com/user-attachments/assets/7bb76987-e9d6-40d2-b78b-41f296888c99)
 >_Figure 13 Shows the average out-of-pocket costs for patients._
