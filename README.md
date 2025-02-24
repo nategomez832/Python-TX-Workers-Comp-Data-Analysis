@@ -65,6 +65,8 @@ According to the Bureau of Labor Statistics, 2021 saw roughly around an 8.9 perc
 
 
 >_Figure 7 This visualization highlighted the top ten most expensive drugs as well as the most prescribed. _
+
+
 When we compared the most expensive drugs with the most prescribed drugs we did see some overlap. Hydrocodone Bitartrate-Acetaminophen 325 MG –10 MG, Ibuprofen, and Gabapentin appeared on both lists. 
 
 
