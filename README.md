@@ -30,20 +30,22 @@ As mentioned earlier, we decided to combine all the drugs that contained Oxycodo
 
 
 
+![image](https://github.com/user-attachments/assets/7ee9f5b6-7737-404c-af44-00f3582fd6d9)
 
 
 
-Figure 5 This visualization shows the number of prescriptions that were given more than a 5 day supply for Oxycodone, Hydrocodone, and Codeine.
+>_Figure 5 This visualization shows the number of prescriptions that were given more than a 5 day supply for Oxycodone, Hydrocodone, and Codeine._
  
 
 From our results, we see that Hydrocodone was prescribed more than 5 days over 6,000 times. Codeine was prescribed for more than five days at least 3,000 times and Oxycodone was prescribed for more than five days over 1,000 times. These results were surprising because this means that thousands of Texans are at high risk of becoming addicted to an opioid. 
 We next wanted to create a graph that demonstrated the number of prescriptions for these opioids that were more than the five days it takes a person to become addicted and less than 90 days because those prescriptions were more than likely outliers. It is not common for a pharmacist to prescribe more than a 90-day supply of drugs. 
 
 
+![image](https://github.com/user-attachments/assets/d7f4f882-8076-494c-8198-3e0f77104d6c)
 
 
 
-Figure 6 This visualization shows the number of times our three most researched drug types have been prescribed for a period of over five days over time through the use of a line graph.
+>_Figure 6 This visualization shows the number of times our three most researched drug types have been prescribed for a period of over five days over time through the use of a line graph._
  
 
 After creating our graph, we can see that Codeine was the most prescribed opioid in early 2020 but throughout the year Hydrocodone outpaced all the other drugs reaching its peak in prescriptions in 2021. In 2021 all drugs peaked in prescriptions, however Hydrocodone was prescribed more than 2,000 times in that period which is more than double what Oxycodone and Codeine were being prescribed.  It is also important to point out that most of the high prescriptions took place during the Covid-19 pandemic.  The covid pandemic disrupted many industries in the world, including access to healthcare. It also affected the jobs for many people, but by late 2020 and 2021, people were gradually entering the workforce yet again.  According to our research into the National Library of Medicine, this disruption also affected opioid prescriptions. Opioid prescriptions decreased in the early phase of the pandemic but by May 2020, prescriptions returned back to their pre-pandemic levels. These disruptions also affected the supply chain of many medicines and as a result, many work injury related procedures were suspended as hospitals pivoted their attention towards the care of COVID-19 patients. While this shift resulted in the postponement of some procedures to later dates, it is important to note that there were many other factors, such as a gradual increase in workforce participation, higher workplace injuries, may have all contributed to changes in prescription patterns or workers' compensation claims during this period. 
@@ -54,6 +56,7 @@ According to the Bureau of Labor Statistics, 2021 saw roughly around an 8.9 perc
 
 
 
+![image](https://github.com/user-attachments/assets/16bcff61-da29-4cab-98dc-f143ed1b60a6)
 
 
 
@@ -61,30 +64,50 @@ According to the Bureau of Labor Statistics, 2021 saw roughly around an 8.9 perc
 
 
 
-Figure 7 This visualization highlighted the top ten most expensive drugs as well as the most prescribed. 
+>_Figure 7 This visualization highlighted the top ten most expensive drugs as well as the most prescribed. _
 When we compared the most expensive drugs with the most prescribed drugs we did see some overlap. Hydrocodone Bitartrate-Acetaminophen 325 MG –10 MG, Ibuprofen, and Gabapentin appeared on both lists. 
 
 
-Figure 8 Shows the range cost of Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen. 
+![image](https://github.com/user-attachments/assets/c66723be-2243-4cc0-88b1-a15df4913ba8)
+
+
+>_Figure 8 Shows the range cost of Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen._
  
 After seeing that these drugs costs were in the thousands, we next decided to see the range in what these drugs were costing. The max for Gabapentin was $8,915.09, the max for Hydrocodone Bitartrate-Acetaminophen 325 MG was $1,253.70, and the max for Ibuprofen was $3,409.
-Figure 9 show the times Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen costs was over $1,000. 
+
+![image](https://github.com/user-attachments/assets/9f33dba5-bc07-4d47-be5b-e420772728d0)
+
+>_Figure 9 show the times Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen costs was over $1,000. _
   
 The cost for Ibuprofen (a common pain/inflammatory medicine) alerted us to possible errors in the input of data in our dataset. To see if they were outliers, we decided to see how many times these drugs costs were over $1,000. After running our data, we see that Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen were only charged over $1,000 one time each, leading us to believe that these were outliers. Gabapentin however costs was over $1,000 161 times. This led us to conclude that Gabapentin is an expensive drug that is prescribed commonly.
-Figure 10 shows the mode costs of Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen
+
+![image](https://github.com/user-attachments/assets/1d4b57e4-a06a-4cac-91eb-eaa7588019ca)
+
+>_Figure 10 shows the mode costs of Gabapentin, Hydrocodone Bitartrate-Acetaminophen 325 MG-10, and Ibuprofen_
  
 We finally decided to see the mode of these three drugs to see how much these drugs were charged the most. Gabapentin was charged $153.70 the most, next Hydrocodone Bitartrate-Acetaminophen 325 MG-10 was charged $114.04 the most, and Ibuprofen was charged $29.69 the most.
 
-Figure 11 Shows how much Texas Workers Compensation Insurance paid and the estimated out-of-pocket cost for individuals. 
+
+![image](https://github.com/user-attachments/assets/f10ddcbb-d1a5-4073-ab0a-5f8cf6dfa04f)
+
+>_Figure 11 Shows how much Texas Workers Compensation Insurance paid and the estimated out-of-pocket cost for individuals._ 
  
 
 For our study, it was also important to see how much Texas Workers Compensation Insurance paid for patients' treatment vs the out-of-pocket costs that patients had to pay. From our analysis we found that during the past five years, Texas Workers Compensation Insurance paid $105,681,689.23 and individuals had to pay out-of-pocket costs of $77,574,486.99. 
 
-Figure 12 Shows the yearly cost that is paid by Workers Compensation and the estimated out-of-pocket  costs for individuals by year. 
+![image](https://github.com/user-attachments/assets/f5233690-fab5-4f14-af65-57b70eb47907)
+
+>_Figure 12 Shows the yearly cost that is paid by Workers Compensation and the estimated out-of-pocket  costs for individuals by year._ 
  	We then decided to graph the results by year. According to the graph above, 2021 was the most that Texas Workers Compensation paid for patients' treatments. This is consistent with our data that shows that 2021 was the year that most people were getting prescription pills. It was also after the initial start of the pandemic where access to healthcare was stopped to make room for Covid patients in hospitals. 2021marked the opportunity for many individuals waiting for surgeries to finally have an opportunity to do so. Interestingly enough, 2020 was the year that patients had to pay the most for out-of-pocket costs. 
-Figure 13 Shows the average out-of-pocket costs for patients. 
- 
+
+ ![image](https://github.com/user-attachments/assets/7bb76987-e9d6-40d2-b78b-41f296888c99)
+>_Figure 13 Shows the average out-of-pocket costs for patients._
+
+
 When patients did have to pay out-of-pocket, we found that the average out-of-pocket cost was $73.98. 
-Figure 14 Shows the instances of out-of-pocket costs vs Texas Workers Compensation covering the bill. 
+
+![image](https://github.com/user-attachments/assets/eededafe-a993-456d-98d8-44a8de9788ae)
+
+>_Figure 14 Shows the instances of out-of-pocket costs vs Texas Workers Compensation covering the bill._
   
 When we graphed to see how many times Workers Compensation paid vs when patients had to pay out-of-pocket, we discovered that patients had to pay out-of-pocket costs 672,729 times vs Texas Workers Compensation Insurance completely covering the cost 375,846 times.  This shows that people had to pay for their medication almost twice as much as Texas Workers Comp covering the bill. 
