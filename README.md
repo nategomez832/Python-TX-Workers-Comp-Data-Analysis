@@ -1,15 +1,36 @@
-# Python-TX-Workers-Comp-Data-Analysis
-  The purpose of our research is to use the dataset to identify instances where addictive prescription pain medications may have been overprescribed to assess the higher likelihood of opioid addiction and identify trends in the cost of those medications to evaluate if changes are needed.  
-  
-  Over the past two decades, the United States has been suffering from an escalating opioid crisis. Opioid overdose has become the leading cause of accidental death in the U.S.  One of the most common reasons as to why this is happening is due to the over-prescribed pain medication following injuries or surgeries. 
+<h1>Identifying Overprescription of Opioids & Cost Analysis
 
-  Our research derives information from the Department of Insurance’s Division of Workers’ Compensation, which maintains a database of pharmacy medical billing services. By conducting analysis on the pharmacy dataset, we aim to understand the potential of over-prescribing by looking at how many times addictive pain medications were prescribed for more than a week and how many pills were prescribed. We believe that this portion of our research could accurately determine which patients are at higher risk for a possible opioid addiction.
+<h2>Overview
 
-  When determining what we wanted to prioritize in our research, we found that certain medications are much more addictive than others. Therefore, we decided that our research will prioritize these three specific medications: Oxycodone, Hydrocodone, and Codeine. These three medications are some of the most addictive pain medications and are therefore some of leading contributors to serious drug addiction and death. Our goal is to identify instances where these drugs were over prescribed to know how many patients are at risk of addiction.
+-This research analyzes prescription data to identify instances where addictive opioid medications may have been overprescribed, assessing the likelihood of opioid addiction and evaluating cost trends. Our goal is to inform policy discussions on reducing overprescription and negotiating lower drug prices.
 
-  Our dataset also included the cost of the medications charged by the Texas Department of Insurance.  Since Workers Compensation is managed by Texas, we wanted to study the cost imposed on the patient by the out-of-pocket costs, and how much the insurance pay. This information might give us some insight on how to lower drug costs. 
+<h2>Background
 
-  In summary, our project will study the amount of addictive drugs being prescribed to see how many people are at risk of becoming addicted to drugs, and the cost of these drugs to Texas taxpayers. Ultimately, our goal is to create a discussion on how Texas could negotiate lower drug cost prices for its residents and provide help to those at risk of addiction.
+-Over the past two decades, the U.S. has faced a worsening opioid crisis, with opioid overdose becoming the leading cause of accidental death. A significant contributor is the overprescription of pain medications following injuries or surgeries.
+
+<h2>Data Source
+
+-Our analysis is based on data from the Department of Insurance’s Division of Workers’ Compensation, which maintains a database of pharmacy medical billing services. The dataset includes:
+
+-Prescription records (medication name, dosage, duration)
+
+-Cost information (insurance coverage, out-of-pocket costs)
+
+<h2>Research Objectives
+
+-Overprescription Analysis: Identify cases where addictive pain medications were prescribed for longer than a week and in excessive quantities.
+
+-Cost Evaluation: Assess price trends for opioid medications and determine potential savings opportunities.
+
+-High-Risk Medications: Focus on three of the most addictive prescription opioids:
+
+  -Oxycodone
+
+  -Hydrocodone
+
+  -Codeine
+
+<h2>Findings
 
 ## Data Visualization & Comparative Analysis
 >In our study, we created a chart to see which drugs had the largest price difference per pill/unit. After conducting our analysis, we noticed that Maci has the largest difference in costs.
