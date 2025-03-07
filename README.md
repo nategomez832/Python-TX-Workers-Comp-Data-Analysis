@@ -1,6 +1,5 @@
-<h1>Identifying Overprescription of Opioids & Cost Analysis
-
-<h2>Overview
+<h1>Identifying Overprescription of Opioids & Cost Analysis</h1>
+<h2>Overview</h2>
 
 -This research analyzes prescription data to identify instances where addictive opioid medications may have been overprescribed, assessing the likelihood of opioid addiction and evaluating cost trends. Our goal is to inform policy discussions on reducing overprescription and negotiating lower drug prices.
 
