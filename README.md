@@ -3,11 +3,11 @@
 
 -This research analyzes prescription data to identify instances where addictive opioid medications may have been overprescribed, assessing the likelihood of opioid addiction and evaluating cost trends. Our goal is to inform policy discussions on reducing overprescription and negotiating lower drug prices.
 
-<h2>Background
+<h2>Background</h2>
 
 -Over the past two decades, the U.S. has faced a worsening opioid crisis, with opioid overdose becoming the leading cause of accidental death. A significant contributor is the overprescription of pain medications following injuries or surgeries.
 
-<h2>Data Source
+<h2>Data Source</h2>
 
 -Our analysis is based on data from the Department of Insurance’s Division of Workers’ Compensation, which maintains a database of pharmacy medical billing services. The dataset includes:
 
@@ -15,7 +15,7 @@
 
 -Cost information (insurance coverage, out-of-pocket costs)
 
-<h2>Research Objectives
+<h2>Research Objectives</h2>
 
 -Overprescription Analysis: Identify cases where addictive pain medications were prescribed for longer than a week and in excessive quantities.
 
@@ -29,7 +29,7 @@
 
   -Codeine
 
-<h2>Findings
+<h2>Findings</h2>
 1. Overprescription Trends
 
 We analyzed prescriptions exceeding the Mayo Clinic’s recommended five-day limit, which increases addiction risk:
@@ -191,7 +191,7 @@ When patients did have to pay out-of-pocket, we found that the average out-of-po
   
 When we graphed to see how many times Workers Compensation paid vs when patients had to pay out-of-pocket, we discovered that patients had to pay out-of-pocket costs 672,729 times vs Texas Workers Compensation Insurance completely covering the cost 375,846 times.  This shows that people had to pay for their medication almost twice as much as Texas Workers Comp covering the bill. 
 
-<h2>Conclusion & Recommendations
+<h2>Conclusion & Recommendations</h2>
 
 Policy Adjustments: Stricter opioid prescription guidelines could reduce addiction risks.
 
@@ -199,7 +199,7 @@ Cost Regulation: Investigating extreme pricing discrepancies can help lower pati
 
 Further Research: Additional analysis is needed to explore cost variations across providers and regions.</h2>
 
-<h2>Data & Visualizations
+<h2>Data & Visualizations</h2>
 
 For complete visualizations and data analysis, visit our repository.
 
