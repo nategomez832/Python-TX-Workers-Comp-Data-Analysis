@@ -31,6 +31,51 @@
   -Codeine
 
 <h2>Findings
+1. Overprescription Trends
+
+We analyzed prescriptions exceeding the Mayo Clinic’s recommended five-day limit, which increases addiction risk:
+
+Hydrocodone: Overprescribed 6,000+ times
+
+Codeine: Overprescribed 3,000+ times
+
+Oxycodone: Overprescribed 1,000+ times
+
+2. Cost Discrepancies
+
+Our cost analysis revealed significant price differences for certain medications:
+
+Acetaminophen/Codeine: Some prescriptions exceeded $47,000 for 7 pills due to extreme outliers.
+
+Maci (Cartilage Implant): Large price variations due to differing patient needs and surgical requirements.
+
+By removing extreme outliers, we recalculated the mode cost per pill/unit, revealing that:
+
+Botox Injections (200 Units): $1,257.89 per unit (highest)
+
+Monovisc (Joint Pain Treatment): $491.50 per unit
+
+Bydureon Pen (Diabetes Treatment): $244.24 per unit
+
+3. Prescription Trends Over Time
+
+We aggregated all drugs containing Oxycodone, Hydrocodone, and Codeine into categories and tracked prescription trends:
+
+2021 saw a peak in opioid prescriptions, coinciding with the post-COVID-19 healthcare recovery period.
+
+Hydrocodone prescriptions surged in 2021, correlating with an increase in workplace injuries (+8.9% from 2020, per Bureau of Labor Statistics).
+
+4. Insurance vs. Out-of-Pocket Costs
+
+We examined how much was covered by Texas Workers’ Compensation Insurance versus patient expenses:
+
+Total Workers' Compensation Coverage (Past 5 Years): $105.7M
+
+Total Out-of-Pocket Costs: $77.6M
+
+Patients paid out-of-pocket 672,729 times, nearly twice as often as when insurance covered the full cost.
+
+Average out-of-pocket cost per patient: $73.98
 
 ## Data Visualization & Comparative Analysis
 >In our study, we created a chart to see which drugs had the largest price difference per pill/unit. After conducting our analysis, we noticed that Maci has the largest difference in costs.
@@ -146,3 +191,19 @@ When patients did have to pay out-of-pocket, we found that the average out-of-po
 >_Figure 14 Shows the instances of out-of-pocket costs vs Texas Workers Compensation covering the bill._
   
 When we graphed to see how many times Workers Compensation paid vs when patients had to pay out-of-pocket, we discovered that patients had to pay out-of-pocket costs 672,729 times vs Texas Workers Compensation Insurance completely covering the cost 375,846 times.  This shows that people had to pay for their medication almost twice as much as Texas Workers Comp covering the bill. 
+
+<h2>Conclusion & Recommendations
+
+Policy Adjustments: Stricter opioid prescription guidelines could reduce addiction risks.
+
+Cost Regulation: Investigating extreme pricing discrepancies can help lower patient expenses.
+
+Further Research: Additional analysis is needed to explore cost variations across providers and regions.</h2>
+
+<h2>Data & Visualizations
+
+For complete visualizations and data analysis, visit our repository.
+
+📂 Full Dataset & Code ([Dataset](https://data.texas.gov/dataset/Pharmacy-Medical-Billing-Services-SV4-Detail-Infor/28cv-4t5q/about_data))
+
+</h2>
